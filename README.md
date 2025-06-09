@@ -35,4 +35,13 @@ A tabela do programa apresenta os seguintes dados das notas fiscais:
 - Windows 10 ou superior
 - .NET Framework instalado
 - Permissão de acesso a arquivos XML na máquina
+---
+
+## ✉️ Contato
+
+Para dúvidas ou sugestões, entre em contato:
+
+- Email: wesleyfs7534@gmail.com
+- LinkedIn: [Wesley Silva](www.linkedin.com/in/wesley-fs)
+
 
